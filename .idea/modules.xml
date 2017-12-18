@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RetrofitAndroid.iml" filepath="$PROJECT_DIR$/RetrofitAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RetrofitAndro.iml" filepath="$PROJECT_DIR$/RetrofitAndro.iml" />
+      <module fileurl="file://F:\2.AndroidWorkspace\RetrofitAndro\RetrofitAndroid.iml" filepath="F:\2.AndroidWorkspace\RetrofitAndro\RetrofitAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\2.AndroidWorkspace\RetrofitAndro\app\app.iml" filepath="F:\2.AndroidWorkspace\RetrofitAndro\app\app.iml" />
     </modules>
   </component>
 </project>
